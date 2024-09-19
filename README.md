@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Infidel Props
+Sydney based 3D printing company specialising in high quality props and models.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--infidel-props--TimLavelle.aem.page/
+- Live: https://main--infidel-props--TimLavelle.aem.live/
 
 ## Installation
 
